@@ -1,0 +1,14 @@
+.showcase {
+    width: 80%;
+    height: 550px;
+    background: url(/images/restaurant-banner.jpg) no-repeat center center/cover;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+}
+
+.showcase-2 {
+    width: 82%;
+}
